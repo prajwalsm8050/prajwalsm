@@ -1,0 +1,64 @@
+body
+{
+    text-align: center;
+}
+.intro{
+    background-color: #cbf1f5;
+}
+.name{
+    font-size: 80px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Redressed', cursive;
+    color: #6c5b7b;
+}
+.namecap{
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #5a1f48;
+}
+.img1{
+    width: 265px;
+    height: 179px;
+}
+.cloud1{
+    width: 10%;
+    position: absolute;
+    top: 5px;
+    left: 50px;
+}
+.cloud2{
+    width: 10%;
+    position: absolute;
+    top: 290px;
+    right: 90px;
+}
+.mypic{
+    width: 200px;
+    border-radius: 100px;
+    position: relative;
+    top: 25px;
+}
+.hello{
+    font-size: 55px;
+    font-style:initial;
+    font-family:'Redressed', cursive;
+    color: #6c5b7b;;
+}
+.role{
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+    border-width: 10px;
+    color:#6c5b7b;
+
+}
+.my-skills{
+    font-size: 45px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #6c5b7b;
+    margin-top: 90px;
+}
